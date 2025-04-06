@@ -1,0 +1,23 @@
+[33mcommit 01d854f7a06739a1e1c9fe63355c4fd44c19f90f[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: developer-02 <pabramos@myuax.com>
+Date:   Mon Mar 31 01:58:07 2025 +0000
+
+    ADDED: Mi nombre
+
+[33mcommit 5c5a77611d8d7fd60dc8100e6130ba8eed1aca1b[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: “developer-01” <pabramos@myuax.com>
+Date:   Mon Mar 31 01:40:15 2025 +0000
+
+    UPDATED: added my name
+
+[33mcommit 735391f9aeab3ae89a03627eccd7fd094a16448a[m
+Author: “developer-01” <pabramos@myuax.com>
+Date:   Mon Mar 31 01:02:09 2025 +0000
+
+    UPDATE: added 2 web pages
+
+[33mcommit 3d01be72a5fe17a279dd9f5ed2479349b9070c47[m
+Author: Pablo Rodríguez Ramos <78876005+PabloRodRam@users.noreply.github.com>
+Date:   Mon Mar 31 02:54:48 2025 +0200
+
+    Initial commit
